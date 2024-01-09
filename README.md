@@ -5,8 +5,12 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
+
+
+
 public class Main {
     public static void main(String[] args) {
+        
         // 1. Adım: 100 adet random sayıya sahip bir liste oluşturun
         List<Integer> originalList = generateRandomList(100);
 
